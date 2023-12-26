@@ -1,1 +1,2 @@
 # RealEstateDeduplicationEngine
+This project aims to group together real estate listings related to the same property. Often, various professionals or even individuals publish multiple advertisements for the same real estate property across different real estate portals. There is a strong interest in deduplicating these listings to enhance the efficiency of property searches. Additionally, deduplication is essential for obtaining more accurate statistics, providing a more streamlined and effective approach to real estate research.
